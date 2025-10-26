@@ -1,6 +1,6 @@
 import { randomUUID } from "crypto";
 import Email from "../value-objects/email.vo";
-import UserId from "../value-objects/user-id.vo";
+import UserId from "../value-objects/userId.vo";
 
 export class User{
   constructor(
